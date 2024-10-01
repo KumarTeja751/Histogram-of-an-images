@@ -38,14 +38,6 @@ plt.axis('on')
 ```
 ![image](https://github.com/user-attachments/assets/82ef158b-a20a-461e-a739-c1aaca2b5cfb)
 
-## Color Image:
-```
-color_image=cv2.imread('Prabhas.jpeg')
-plt.imshow(color_image)
-plt.axis('on')
-plt.show()
-```
-![image](https://github.com/user-attachments/assets/288d71a4-4f71-4632-961b-a14df19487f6)
 ### Histogram of Grayscale Image and any channel of Color Image
 ## Histrogram:
 ```p
